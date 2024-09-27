@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RotateObjectM : MonoBehaviour
 {
-    public float rotationSpeed = 1f;
+    public float rotationSpeed = 2f;
     private Vector3 lastMousePosition;
 
     void Update()
